@@ -71,3 +71,6 @@ static void SumStringMatrix(int[,] matrix)
 int[,] array2D2 = CreateMatrix(4, 4, 0, 9);  // строки, столбцы, от 0 до 9 числа.
 PrintMatrix(array2D2);
 SumStringMatrix(array2D2);
+
+
+// ALEX Shah 2022.
